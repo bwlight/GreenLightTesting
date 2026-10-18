@@ -1,0 +1,4 @@
+[
+  {"visit_id":"v1","visit_date":"2026-10-15","trip_ref":"SYN-001","facility_code":"F-A","city_state":"Fictional, ZZ","visit_type":"Pickup","trailer_context":"Loaded","appointment":"2026-10-15T10:00:00","arrival":"2026-10-15T10:00:00","check_in":"2026-10-15T10:15:00","exit":"2026-10-15T11:00:00","verified":"Yes","delay_cause":"Facility","delay_notes":"Synthetic only","source":"Firsthand"},
+  {"visit_id":"v2","visit_date":"2026-10-15","trip_ref":"SYN-002","facility_code":"F-A","city_state":"Fictional, ZZ","visit_type":"Pickup","trailer_context":"Loaded","appointment":null,"arrival":"2026-10-15T12:00:00","check_in":"2026-10-15T12:15:00","exit":"2026-10-15T14:00:00","verified":"Yes","delay_cause":"None","delay_notes":"Synthetic only","source":"Firsthand"}
+]
